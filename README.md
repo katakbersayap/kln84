@@ -1,5 +1,8 @@
 # Klandestin84
-Klandestin84 ortholinear 84 keys keyboard
+
+## QMK RP2040 Klandestin84 ortholinear84 Keyboard Project
+
+## Keyboard Layout Preview
 
 ![Klandestin84](images/keyboard_layout_kln84.jpg)
 
@@ -7,15 +10,25 @@ Klandestin84 ortholinear 84 keys keyboard
 
 * Keyboard Maintainer: [Alif Faizin](https://github.com/katakbersayap)
 * Hardware Supported: *Rasberry Pi Pico RP2040*
-* Hardware Availability: *Links to where you can find this hardware*
+* Firmware: *QMK Firmware*
+* Layout : *Custom (ortholinear / handwired)*
 
-Make example for this keyboard (after setting up your build environment):
+## Matrix Pins:
 
-    make kln84:default
+    "cols": ["GP6","GP7","GP8","GP9","GP10","GP11","GP12","GP13",
+             "GP14","GP15","GP16","GP17","GP18","GP19","GP20"],
+    
+    "rows": ["GP0","GP1","GP2","GP3","GP4","GP5"]
 
-Flashing example for this keyboard:
 
-    make kln84:default:flash
+## Flashing Firmware :
+1. Compile firmware using QMK
+2. Put RP2040 (Pi Pico) into bootloader mode
+3. copy the generated `.uf2` file into the RP2040 (Pi Pico) drive
+
+## Notes
+*Ensure matrix wiring matches your QMK configuration
+*Use the command : `qmk compile -kb <keyboard> -km default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
