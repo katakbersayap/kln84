@@ -10,6 +10,10 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 ![Klandestin84 Wiring](images/kln84_wiring.jpg)
 
+## VIA Support
+
+![Klandestin84 Wiring](images/kln84_wiring.jpg)
+
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Alif Faizin](https://github.com/katakbersayap)
