@@ -12,7 +12,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 ## VIA Support
 
-![Klandestin84 Wiring](images/kln84_wiring.jpg)
+![Klandestin84 Via Support](images/via_support_kl84.jpg)
 
 *A short description of the keyboard/project*
 
