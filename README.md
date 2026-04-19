@@ -1,6 +1,6 @@
 # Klandestin84
 
-## QMK RP2040 Klandestin84 ortholinear84 Keyboard Project
+Handwired RP2040 ortholinear84 Keyboard Project
 
 ## Keyboard Layout Preview
 
