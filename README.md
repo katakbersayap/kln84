@@ -31,8 +31,8 @@ Handwired RP2040 ortholinear84 Keyboard Project
 3. copy the generated `.uf2` file into the RP2040 (Pi Pico) drive
 
 ## Notes
-*Ensure matrix wiring matches your QMK configuration
-*Use the command : `qmk compile -kb <keyboard> -km default
+* Ensure matrix wiring matches your QMK configuration
+* Use the command : `qmk compile -kb <keyboard> -km default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
