@@ -17,20 +17,20 @@ Handwired RP2040 ortholinear84 Keyboard Project
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Alif Faizin](https://github.com/katakbersayap)
-* Hardware Supported: *Raspberry Pi Pico RP2040*
+* Hardware Supported: [*Raspberry Pi Pico RP2040*](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 * Firmware: *QMK Firmware*
 * Layout : *Custom (ortholinear / handwired)*
 
 ## Matrix Pins:
 
-    `"cols": ["GP6","GP7","GP8","GP9","GP10","GP11","GP12","GP13",
+    "cols": ["GP6","GP7","GP8","GP9","GP10","GP11","GP12","GP13",
              "GP14","GP15","GP16","GP17","GP18","GP19","GP20"],
     
-    "rows": ["GP0","GP1","GP2","GP3","GP4","GP5"]`
+    "rows": ["GP0","GP1","GP2","GP3","GP4","GP5"]
 
 
 ## Flashing Firmware :
-1. Compile firmware using QMK MSYS
+1. Compile firmware using [QMK MSYS](https://msys.qmk.fm/)
 2. Put RP2040 (Pi Pico) into bootloader mode
 3. copy the generated `.uf2` file into the RP2040 (Pi Pico) drive
 
