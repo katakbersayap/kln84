@@ -1,8 +1,7 @@
 # Klandestin84
 Klandestin84 ortholinear 84 keys keyboard
-![Klandestin84]
 
-(images/keyboard_layout_kln84.jpg)
+![Klandestin84](images/keyboard_layout_kln84.jpg)
 
 *A short description of the keyboard/project*
 
