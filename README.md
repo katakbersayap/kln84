@@ -8,7 +8,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 ## Keyboard Wiring Preview
 
-![Klandestin84 Wiring](images/keyboard_layout_kln84.jpg)
+![Klandestin84 Wiring](images/kln84_wiring.jpg)
 
 *A short description of the keyboard/project*
 
