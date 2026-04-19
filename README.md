@@ -17,7 +17,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Alif Faizin](https://github.com/katakbersayap)
-* Hardware Supported: *Rasberry Pi Pico RP2040*
+* Hardware Supported: *Raspberry Pi Pico RP2040*
 * Firmware: *QMK Firmware*
 * Layout : *Custom (ortholinear / handwired)*
 
