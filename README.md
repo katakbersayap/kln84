@@ -30,7 +30,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 
 ## Flashing Firmware :
-1. Compile firmware using QMK
+1. Compile firmware using QMK MSYS
 2. Put RP2040 (Pi Pico) into bootloader mode
 3. copy the generated `.uf2` file into the RP2040 (Pi Pico) drive
 
