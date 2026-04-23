@@ -51,6 +51,6 @@ Enter the bootloader in 3 ways:
 
 ## Gallery
 
-![Klandestin84 1](images/kln84_wiring.jpg)
-![Klandestin84 2](images/kln84_wiring.jpg)
-![Klandestin84 3](images/kln84_wiring.jpg)
+![Klandestin84 1](images/IMG_20260423_192453.jpg)
+![Klandestin84 2](images/IMG_20260423_192125.jpg)
+![Klandestin84 3](images/IMG_20260423_191755.jpg)
