@@ -36,7 +36,7 @@ Row :
 
 ### Notes
 * Ensure matrix wiring matches your QMK configuration
-* Donwload Klandestin84 file and copy to `qmk_firmware/keyboard` folder : 
+* Donwload Klandestin84 file and copy to `qmk_firmware/keyboard` folder
 * Use the command 
   
 Default Compile:
