@@ -22,11 +22,11 @@ Handwired RP2040 ortholinear84 Keyboard Project
 * Layout : *Custom (ortholinear / handwired)*
 
 ## Matrix Pins:
+Columns : 
+`["GP6","GP7","GP8","GP9","GP10","GP11","GP12","GP13","GP14","GP15","GP16","GP17","GP18","GP19","GP20"]`
 
-    "cols": ["GP6","GP7","GP8","GP9","GP10","GP11","GP12","GP13",
-             "GP14","GP15","GP16","GP17","GP18","GP19","GP20"],
-    
-    "rows": ["GP0","GP1","GP2","GP3","GP4","GP5"]
+Row : 
+`["GP0","GP1","GP2","GP3","GP4","GP5"]`
 
 
 ## Flashing Firmware :
@@ -36,7 +36,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 ## Notes
 * Ensure matrix wiring matches your QMK configuration
-* Donwload Klandestin84 file and copy to qmk_firmware folder : 
+* Donwload Klandestin84 file and copy to `qmk_firmware/keyboard` folder : 
 * Use the command 
   
 Default Compile:
