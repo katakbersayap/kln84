@@ -2,7 +2,7 @@
 
 Handwired RP2040 ortholinear84 Keyboard Project
 
-## Keyboard Layout Preview
+### Keyboard Layout Preview
 
 ![Klandestin84](images/keyboard_layout_kln84.jpg)
 
