@@ -18,7 +18,7 @@ Handwired RP2040 ortholinear84 Keyboard Project
 
 * Keyboard Maintainer : [Alif Faizin](https://github.com/katakbersayap)
 * Hardware Supported : [*Raspberry Pi Pico RP2040*](https://www.raspberrypi.com/products/raspberry-pi-pico/)
-* Firmware: *QMK Firmware*
+* Firmware : *QMK Firmware*
 * Layout : *Custom (ortholinear / handwired)*
 
 ### Matrix Pins:
@@ -48,7 +48,9 @@ via Compile:
     qmk compile -kb <keyboard folder name> -km via
 
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+If you're having trouble or feel confused, you can watch this video.
+
+    https://youtu.be/hjml-K-pV4E
 
 ### Bootloader
 
